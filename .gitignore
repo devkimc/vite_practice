@@ -10,5 +10,8 @@
 # dev
 node_modules
 
+# build
+dist
+
 # env
-.env.local
+# .env.local
