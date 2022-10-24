@@ -1,3 +1,4 @@
+# zero install
 .yarn/*
 !.yarn/cache
 !.yarn/patches
@@ -6,4 +7,8 @@
 !.yarn/sdks
 !.yarn/versions
 
+# dev
 node_modules
+
+# env
+.env.local
